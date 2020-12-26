@@ -125,7 +125,11 @@ export default (() => {
 			>
 				This is my first game made this just that a game coding journey start's its only have good graphics
 				<br />
-				link:https://drive.google.com/drive/folders/1y-ZfUPrx8bwoJ7Pqpnus1ZfSRMdQ-TUw?usp=sharing
+				link:
+				<Link href="#" filter="blur(0px)">
+					https://drive.google.com/drive/folders/1y-ZfUPrx8bwoJ7Pqpnus1ZfSRMdQ-TUw?usp=shari
+				</Link>
+				ng
 			</Text>
 		</Section>
 		<Link
